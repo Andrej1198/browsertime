@@ -85,7 +85,7 @@ async function run(urls, options) {
         mkdirSync(dir);
       }
     }
-
+    options["directConnect"] = true
     let engine = new Engine(options);
 
     const scriptCategories = await allScriptCategories();
