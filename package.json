@@ -23,7 +23,7 @@
   },
   "optionalDependencies": {
     "jimp": "1.6.1",
-    "usb-power-profiling": "github:Andrej1198/usb-power-profiling#5bc878469025f7cd6a15e357fcd0cc9693549ed6"
+    "usb-power-profiling": "github:Andrej1198/usb-power-profiling#e1020f577eec369f2fdec81d58ddb0385c48b5f7"
   },
   "devDependencies": {
     "@types/selenium-webdriver": "4.35.5",
